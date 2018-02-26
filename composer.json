@@ -4,7 +4,7 @@
   "description": "This Bundle provides a model bundle to show how to work with doctrine trigger and the observer pattern",
   "keywords": ["trigger", "observer", "dispatcher"],
   "homepage": "http://pigroupe.github.io/cmf-sfynx/",
-  "license": "LGPL-3.0-or-latter",
+  "license": "LGPL-3.0-or-later",
   "authors": [
     {
       "name": "Etienne de Longeaux",
